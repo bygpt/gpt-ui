@@ -6,13 +6,15 @@ Because Chatbot UI the author hasn't updated it in two months
 
 
 
+
 ![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
 
 ## Updates
 
-Chatbot UI will be updated over time.
+GPT-UI will be updated over time.
 
-Expect frequent improvements.
+
+[x] gpt-3.5-turbo-16k
 
 **Next up:**
 
